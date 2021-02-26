@@ -1,6 +1,6 @@
 # Online-Exam-Management-System
 
-Studnet's Online Exam Database Management System using Python and MySQL Python
+Student's Online Exam Database Management System using Python and MySQL Python
 
 In this project, I have designed a database that will keep record of students, their subjects and the online exam they give. This project is helpful for students to take examination online by giving them the examination link automatically. 
 

@@ -14,3 +14,10 @@ In this project I have created multiple Python based modules and function bindin
 
 To all the tables in the Database. We have created a menu-driven and User-friendly Python program to easily manage, add, alter and delete the data entries in the tables. On executing the Python file, it will automatically connect to the database on the Local Host server. As the execution of the program continues the program will provide the user with various options to manipulate and edit the various tables in the Database.
 
+
+# ER Diagram
+![](ER.png)
+
+# MySQL Command Line
+![](1.png)
+![](2.png)
